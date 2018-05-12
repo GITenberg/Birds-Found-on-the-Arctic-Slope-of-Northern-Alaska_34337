@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '36963'
     url: http://www.gutenberg.org/2009/agents/36963
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34337#Birds-Found-on-the-Arctic-Slope-of-Northern-Alaska
 gutenberg_bookshelf:
 - Animal
 - Animals-Wild-Birds
