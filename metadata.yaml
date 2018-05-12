@@ -1,0 +1,27 @@
+_repo: Birds-Found-on-the-Arctic-Slope-of-Northern-Alaska_34337
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bee, James W.
+    gutenberg_agent_id: '36963'
+    url: http://www.gutenberg.org/2009/agents/36963
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild-Birds
+gutenberg_issued: '2010-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34337'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Birds -- Alaska'
+- !lcc 'QH'
+title: Birds Found on the Arctic Slope of Northern Alaska
+url: http://www.gutenberg.org/ebooks/34337
